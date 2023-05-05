@@ -12,8 +12,8 @@
 
 📚 Currently learning Python and Swift
 
-#### Programming Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="20"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="20"/>
+#### Programming Language
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="20"/></a>  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/></a>  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="20"/></a>
 
 <!--
 **FeGio/FeGio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
