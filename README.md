@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Federica
 
-📍 I'm a 27 years old developer based in Turin (Italy)
+📍 I'm a 28 years old developer based in Turin (Italy)
 
 🎓 I have a master degree in Media and Communication Engineering
 
